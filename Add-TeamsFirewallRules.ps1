@@ -10,7 +10,7 @@
     when they attempt to use the calling capabilities and a firewall prompt is displayed.  Without administrative permissions, 
     standard users are unable to udpate the firewall with the necessary rules to allow Teams functionality.
 
-    This script adds the necessary firewall rules for the Domain profile that will account for the Teams executable in the user
+    This script adds the necessary firewall rules that will account for the Teams executable in the user
     profile APPDATA (common install) and the system PROGRAMDATA directory if they exist.
 
 
